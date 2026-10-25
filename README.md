@@ -1,4 +1,4 @@
-# Next Phisher
+# PhishSim Lab
 
 # Table of Contents
 - [Description](#Description)
